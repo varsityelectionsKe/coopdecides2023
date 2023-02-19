@@ -10,11 +10,9 @@ By using the Service, you agree to the collection and use of information in acco
 ## Explore
 
 
-- [Personal Data](#1.1 Personal Data)
 - [Privacy Policy](#usage)
 - [Installation](/install-version1)
 - [Latest App Version](/latestApp)
-- [Contributor](#about developer)
 
 ## 1.1 Personal Data
 
